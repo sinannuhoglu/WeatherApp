@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- SplashScreen -->
+    <string name="splash_title">Check the Weather Forecast</string>
+    <string name="splash_subtitle">Allow location access to view detailed weather information</string>
+    <string name="continue_button">Continue</string>
+    <string name="location_not_found">Unable to retrieve your location</string>
+    <string name="location_permission_error">Location permission is required</string>
+
+    <!-- MapScreen -->
+    <string name="map_hint_text">Tap the map to select a different location</string>
+    <string name="map_marker_title">Selected Location</string>
+    <string name="map_button_text">Use This Location</string>
+
+    <!-- HomeScreen -->
+    <string name="home_screen_title">Current Weather</string>
+    <string name="hourly_forecast">Today\'s Hourly Forecast</string>
+    <string name="daily_forecast">Daily Forecasts</string>
+    <string name="error_message">An error occurred</string>
+    <string name="other_cities">Other Cities</string>
+
+    <!-- DetailScreen -->
+    <string name="detail_screen_title">Weather Details</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="pressure_label">Pressure</string>
+    <string name="wind_label">Wind</string>
+    <string name="back_button_desc">Back</string>
+    <string name="detail_title">Detail</string>
+</resources>
