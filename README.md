@@ -9,7 +9,7 @@ WeatherApp is an Android application that displays current weather data and 5-da
 
 | Splash Screen | Home Screen | Detail Screen | Map Screen |
 |---------------|-------------|---------------|-------------|
-| <img width="1194" height="2532" alt="Image" src="https://github.com/user-attachments/assets/5f66a577-dff0-453c-9e33-978a48a8ae9d" /> | <img width="1194" height="2532" alt="Image" src="https://github.com/user-attachments/assets/39bfc79d-1f28-4c3c-a85c-3919db69c1ed" /> | <img width="1194" height="2532" alt="Image" src="https://github.com/user-attachments/assets/9d2bcd0c-42f6-4603-a15d-d7f9ce81e5ea" /> | <img width="1194" height="2532" alt="Image" src="https://github.com/user-attachments/assets/8113e085-38a5-495a-b90c-bdd72a523579" /> |
+| <img width="1194" height="2532" alt="Image" src="https://github.com/user-attachments/assets/91096ff1-a31c-4046-bb6c-1147fa81a6eb" /> | <img width="1194" height="2532" alt="Image" src="https://github.com/user-attachments/assets/7cca95f7-d4ae-4c87-a9cb-092be2ebe3f1" /> | <img width="1194" height="2532" alt="Image" src="https://github.com/user-attachments/assets/b07e3a78-fd95-4e16-824b-6575f038f5ae" /> | <img width="1194" height="2532" alt="Image" src="https://github.com/user-attachments/assets/dda7fea8-197e-430a-9b42-379ae4f2cbc8" /> |
 
 ---
 
